@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.BurgerApp{
+  text-align:center;
+}
+.topBread{
+  background-color: rgb(224, 176, 16);
+  width: 29%;
+  height: 55px;
+  justify-content:center;
+  margin-left:37%;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+.options{
+  list-style: none;
+}
+li{
+  margin: 5px;
+}
+
+.bottomBread{
+  background-color: rgb(224, 176, 16);
+  width: 29%;
+  justify-content:center;
+  display: flex;
+  height: 50px;
+  margin-left: 37%;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
