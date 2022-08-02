@@ -17,7 +17,7 @@ function Third(){
         if(third_layer < ThirdLayer.length -1)
             setThird_layer(third_layer +1)
         else{
-            alert("haibo")
+            alert("Can't add new item")
         }
     }
     const mystyle = {

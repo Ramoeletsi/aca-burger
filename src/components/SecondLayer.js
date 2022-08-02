@@ -23,7 +23,7 @@ function Second(){
         if(second_layer< SecondLayer.length -1)
             setSecond_layer(second_layer +1)
         else{
-            alert("haibo")
+            alert("Can't add new item")
         }
     };
     const mystyle = {

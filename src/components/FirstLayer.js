@@ -20,7 +20,7 @@ function First(){
         if(first_layer < FirstLayer.length -1)
             setFirst_layer(first_layer +1)
         else{
-            alert("haibo")
+            alert("Can't add new item")
         }
     };
     const mystyle = {
